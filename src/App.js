@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import "./App.css";
 import React, { useState, useEffect, useMemo, useCallback } from "react";
 
 function App() {
